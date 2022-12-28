@@ -1,0 +1,29 @@
+.form-control {
+  width: 100%;
+
+  .container {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .title {
+      width: 100%;
+      padding: 20px 0;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+
+      h3 {
+        font-size: 30px;
+        line-height: 33px;
+      }
+    }
+
+    .form-wrapper {
+        width: 100%;
+    }
+  }
+}

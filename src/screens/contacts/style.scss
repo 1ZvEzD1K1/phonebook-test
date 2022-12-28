@@ -1,0 +1,33 @@
+
+.contacts {
+    width: 100%;
+    .container {
+        margin: 0 auto;
+        padding: 0 10px;
+        max-width: 1280px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        .title {
+            width: 100%;
+            padding: 20px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            h3 {
+                font-size: 30px;
+                line-height: 33px;
+            }
+        }
+
+        .list {
+            width: 100%;
+
+            @media only screen and (max-width: 1450px) {
+                overflow-x: scroll;
+            }
+        }
+    }
+}

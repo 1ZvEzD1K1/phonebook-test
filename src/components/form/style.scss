@@ -1,0 +1,27 @@
+form {
+    width: 100%;
+
+    .input-wrapper {
+        input {
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 7px 0 7px 5px;
+            margin: 0 5px 5px 0;
+        }
+
+        button {
+           margin-bottom: 5px; 
+        }
+
+        .row {
+            display: flex;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+    }
+
+    .submit-wrapper {
+        margin-top: 15px;
+    }
+}
