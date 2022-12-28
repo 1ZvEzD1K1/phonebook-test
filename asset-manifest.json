@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//1zvezd1k1.github.io/phonebook-test/static/css/main.afd7f372.css",
-    "main.js": "//1zvezd1k1.github.io/phonebook-test/static/js/main.84048159.js",
+    "main.js": "//1zvezd1k1.github.io/phonebook-test/static/js/main.50f74b7f.js",
     "index.html": "//1zvezd1k1.github.io/phonebook-test/index.html",
     "main.afd7f372.css.map": "//1zvezd1k1.github.io/phonebook-test/static/css/main.afd7f372.css.map",
-    "main.84048159.js.map": "//1zvezd1k1.github.io/phonebook-test/static/js/main.84048159.js.map"
+    "main.50f74b7f.js.map": "//1zvezd1k1.github.io/phonebook-test/static/js/main.50f74b7f.js.map"
   },
   "entrypoints": [
     "static/css/main.afd7f372.css",
-    "static/js/main.84048159.js"
+    "static/js/main.50f74b7f.js"
   ]
 }
